@@ -1,0 +1,3 @@
+-every node has to adhere to the binary search property
+-the node has to be strictly greater than all the nodes to the left and its value is less than or equal to the nodes to the right 
+-left and right children nodes have to also be bsts  
